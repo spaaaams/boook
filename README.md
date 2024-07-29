@@ -19,6 +19,7 @@
 ### 디자인 패턴
 
 - GOF의 디자인 패턴
+- [자바스크립트 + 리액트 디자인 패턴](http://aladin.kr/p/Jq6YK)
 
 ### 언어
 
@@ -28,3 +29,7 @@
 ### 클린코드
 
 - [리팩토링 2판 (리팩토링 개정판)](https://www.aladin.co.kr/m/mproduct.aspx?ItemId=236186172)
+
+### 플랫폼
+
+- [WebRTC](http://aladin.kr/p/tqLL4)
