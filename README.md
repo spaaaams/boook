@@ -30,6 +30,6 @@
 
 - [리팩토링 2판 (리팩토링 개정판)](https://www.aladin.co.kr/m/mproduct.aspx?ItemId=236186172)
 
-### 플랫폼
+### WebRTC
 
 - [WebRTC](http://aladin.kr/p/tqLL4)
