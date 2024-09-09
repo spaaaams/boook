@@ -25,6 +25,7 @@
 
 - 모던 자바스크립트 deep dive
 - 이펙티브 타입스크립트
+- 모던 리액트 deep dive
 
 ### 클린코드
 
@@ -33,3 +34,7 @@
 ### WebRTC
 
 - [WebRTC](http://aladin.kr/p/tqLL4)
+
+### Testing
+
+- [프론트엔드 개발을 위한 테스트 입문](https://www.yes24.com/Product/Goods/127005970)
